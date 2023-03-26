@@ -60,9 +60,8 @@
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b> MSI Bravo 15 (AMD RYZEN 5)</li>
-  	   <li><b>Browser: </b> Firefox Web Browser</li>
+  	   <li><b>OS:</b>Mac </li>
+	     <li><b>MacBook Pro: </b> Apple M1 Pro</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
